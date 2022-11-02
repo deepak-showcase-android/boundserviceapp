@@ -27,6 +27,7 @@
                 android:value="" />
         </activity>
         <service android:name=".services.MusicService"/>
+        <service android:name=".services.DownloadService"/>
     </application>
 
 </manifest>
