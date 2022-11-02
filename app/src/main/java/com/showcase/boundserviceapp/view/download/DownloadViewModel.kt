@@ -5,7 +5,5 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 class DownloadViewModel : ViewModel() {
-
     //to be implemented
-
 }
