@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">BoundServiceApp</string>
     <string name="title_music">Music</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_download">Download</string>
     <string name="title_notifications">Notifications</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
